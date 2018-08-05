@@ -66,6 +66,19 @@ newton <- function(x, largo, ancho) {
 newton(10, 32, 24)
 
 
+
+sqrt()
+
+
 #1.
 #2. Cálculo básico, conocimientos de algoritmos
 
+
+
+
+
+
+
+
+
+#PUNTO 12: Funcion para hallar la raiz en R: uniroot() en el cual utiliza un metodo de prueba y error para irse acercando a 0

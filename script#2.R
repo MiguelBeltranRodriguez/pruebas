@@ -70,8 +70,12 @@ newton(10, 32, 24)
 sqrt()
 
 
-#1.
-#2. C·lculo b·sico, conocimientos de algoritmos
+#1. La etapa de verificaci√≥n
+#2. C√°lculo b√°sico y pensamiento algoritmico, ademas de conocimientos basicos en el area al que pertenece el modelo matematico.
+#3. La eficiencia es el mayor problema, ademas el margen de error puede ser mayor
+#4. El error de truncamiento puede llegar a ser mucho mas objetivo que el de redondeo
+#5. La velocidad y la eficacia
+#6. Para comprobar si el algoritmo si es eficaz
 
 
 
